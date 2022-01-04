@@ -18,3 +18,8 @@ Repositório criado para o desafio de projeto
  Uma pilha é uma estrutura de dados que serve como uma coleção de elementos, e permite o acesso a somente um item de dados armazenados
  tipo de pilhas: LIFO ou UEPS
                  FIFO ou PEPS
+### Filas:
+A estrutura do tipo fila admite remoção de elementos e inserção de novos sujeitos á seguinte regra de operação: o elemento removido é o que está na estrutura há mais tempo ou seja, o primeiro objeto inserido na fila também é o primeiro a ser removido seguindo o conceito FIFO.
+## Conclusão:
+A gestão de estoque de produtos perecíveis é um dos maiores desafios dos varejistas, principalmente os supermercadistas. Mas existem ótimas ferramentas para ajudar nessa situação.
+O bluesoft, por exemplo, possui módulos onde é possível fazer o controle de estoque e fazendo uma boa estrutura de perdas.
